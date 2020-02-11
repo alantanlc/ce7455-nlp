@@ -1,2 +1,2 @@
-Question 1: 1 day
-Question 2: 6 days
+Question 1: 2 day
+Question 2: 7 days
