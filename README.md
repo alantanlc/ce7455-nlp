@@ -48,6 +48,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ## Teaching
 __Instructor__:
 - Shafiq Rayhan Joty
+
 __Teaching Assistants__:
 - Tasnim Mohuiddin
 - Nguyen Thanh Tung
