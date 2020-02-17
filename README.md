@@ -58,7 +58,10 @@ __Teaching Assistants__:
 
 ## Schedule & Course Content
 
-### Week 1: Introduction [[Lecture Slides]](https://www.dropbox.com/s/3o9zo7yljht0g4b/Lecture-1.pdf?dl=0)
+### Week 1: Introduction
+
+[[Lecture Slides]](https://www.dropbox.com/s/3o9zo7yljht0g4b/Lecture-1.pdf?dl=0)
+
 __Lecture Content__
 - What is Natural Language Processing?
 - Why is language understanding difficult?
@@ -79,7 +82,10 @@ __Python & PyTorch Basic__
   - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view)
   - Numerical programmig with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view)
   
-### Week 2: Machine Learning Basic [[Lecture Slides]](https://www.dropbox.com/s/hzizorgpwsbgi58/Lecture-2.pdf?dl=0)
+### Week 2: Machine Learning Basic
+
+[[Lecture Slides]](https://www.dropbox.com/s/hzizorgpwsbgi58/Lecture-2.pdf?dl=0)
+
 __Lecture Content__
 - What is Machine Learning?
 - Supervised vs. unsupervised learning
@@ -95,7 +101,10 @@ __Practical exercise with Pytorch__
 - [Supplementary]
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view)
 
-### Week 3: Neural Network & Optimization Basics [[Lecture Slides]](https://www.dropbox.com/s/bqlf5kmvr2mcyjd/Lecture-3.pdf?dl=0)
+### Week 3: Neural Network & Optimization Basics
+
+[[Lecture Slides]](https://www.dropbox.com/s/bqlf5kmvr2mcyjd/Lecture-3.pdf?dl=0)
+
 __Lecture Content__
 - Why Deep Learning for NLP?
 - From Logistic Regression to Feed-forward NN
@@ -120,7 +129,10 @@ __Suggessted Readings__
 - [Adam: a method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
 - [Neural Optimizer Search with Reinforcement Learning](http://proceedings.mlr.press/v70/bello17a.html)
 
-### Week 4: Word Vectors [[Lecture Slides]](https://www.dropbox.com/s/2m8pyvjfs5m6zpd/Lecture-4.pdf?dl=0)
+### Week 4: Word Vectors
+
+[[Lecture Slides]](https://www.dropbox.com/s/2m8pyvjfs5m6zpd/Lecture-4.pdf?dl=0)
+
 __Lecture Content__
 - Word meaning
 - Denotational semantics
@@ -138,7 +150,7 @@ __Practical exercise with Pytorch__
 - Visualization
 __Suggested Readings__
 - Word2Vec Tutorial - The Skip-Gram Model [blog](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
-- [Efficient Estimation of Word Represenations in Vector Space](https://arxiv.org/abs/1301.3781 - Original word2vec paper
+- [Efficient Estimation of Word Represenations in Vector Space](https://arxiv.org/abs/1301.3781) - Original word2vec paper
 - [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) - negative sampling paper
 - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf)
 - [FastText: Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00051?mobileUi=0&)
@@ -151,7 +163,10 @@ __Suggested Readings__
 - [Evaluating Cross-Lingual Word Embeddings](https://www.aclweb.org/anthology/P19-1070/)
 - [Linear Algebraic Structure of Word Senses, with Applications to Polsemy](https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320)
 
-### Week 5: Cross-lingual Word Vectors & CNNs [[Lecture Slides]](https://www.dropbox.com/s/at3wztn2dn7h2k2/Lecture-5.pdf?dl=0) [[Slides with recording]](https://drive.google.com/open?id=18hsT0Pm3yGGliCCmoapW7XenEIEzP51L) [[Slides with video]](https://drive.google.com/file/d/1PU-8asYE4LdfBRbKa-CPD-b2gip0k7pQ/view)
+### Week 5: Cross-lingual Word Vectors & CNNs
+
+[[Lecture Slides]](https://www.dropbox.com/s/at3wztn2dn7h2k2/Lecture-5.pdf?dl=0) [[Slides with recording]](https://drive.google.com/open?id=18hsT0Pm3yGGliCCmoapW7XenEIEzP51L) [[Slides with video]](https://drive.google.com/file/d/1PU-8asYE4LdfBRbKa-CPD-b2gip0k7pQ/view)
+
 __Lecture Content__
 - Cross-lingual word embeddings
 - Classification tasks in NLP
@@ -176,7 +191,10 @@ __Suggested Readings__
 - [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 
-### Week 6: Recurrent Neural Nets [[Lecture Slides]](#)
+### Week 6: Recurrent Neural Nets
+
+[[Lecture Slides]](#)
+
 __Lecture Content__
 - Basic RNN structures
 - Language modeling with RNNs
