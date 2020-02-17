@@ -71,9 +71,10 @@ __Lecture Content__
 - Applications of deep learning to NLP
 - Knowing the target group (background, field of study, programming experience)
 - Expectation from the course
+
 __Python & PyTorch Basic__
 - Programming in Python
-  - Jupyter Notebook and [google colab](https://colab.research.google.com/drive/16pBJQePbqkz3QFV54L4NIkOn1kwpuRrj
+  - Jupyter Notebook and [google colab](https://colab.research.google.com/drive/16pBJQePbqkz3QFV54L4NIkOn1kwpuRrj)
   - [Introduction to python](https://colab.research.google.com/drive/1bQG32CFoMZ-jBk02uaFon60tER3yFx4c)
   - Deep Learning Frameworks
   - Why Pytorch?
@@ -94,6 +95,7 @@ __Lecture Content__
 - Multi-class classification
 - Parameter estimation (MLE & MAP)
 - Gradient-based optimization & SGD
+
 __Practical exercise with Pytorch__
 - [Deep learning with PyTorch](https://colab.research.google.com/drive/1tRayE1KjvmENZJe9oGwtnRNw_sbrwb5d)
 - [Linear Regression](https://colab.research.google.com/drive/1krekWlJPHjvxH6fMzjYohR-1OX43bp67)
@@ -113,16 +115,17 @@ __Lecture Content__
 - Adaptive SGD (Adagrad, adam, RMSProp)
 - Regularization (Weight Decay, Dropout, Batch normalization, Gradient clipping)
 - Introduction to Word Vectors
+
 __Assignment `1` out__
 
 __Practical exercise with Pytorch__
-
 [Numpy notebook](https://colab.research.google.com/drive/1IAonxZnZjJb0_xUVWHt5atIxaI5GTJQ2#scrollTo=IuC1D60M82lg) [Pytorch notebook](https://colab.research.google.com/drive/1YzZrMAmJ3hjvJfNIdGxae9kxGABG6yaT)
 - Backpropagation
 - Dropout
 - Batch normalization
 - Initialization
 - Gradient clipping
+
 __Suggessted Readings__
 - SGD optimization [blog](https://ruder.io/optimizing-gradient-descent/)
 - [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
@@ -145,9 +148,11 @@ __Lecture Content__
   - Intrinsic evaluation
   - Extrinsic evaluation
 - Cross-lingual word vectors
+
 __Practical exercise with Pytorch__
 - [Skip-gram training](https://colab.research.google.com/drive/164dB-Vemzwavf1ffqDDVNtx7Y5VtcmQh)
 - Visualization
+
 __Suggested Readings__
 - Word2Vec Tutorial - The Skip-Gram Model [blog](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 - [Efficient Estimation of Word Represenations in Vector Space](https://arxiv.org/abs/1301.3781) - Original word2vec paper
@@ -175,13 +180,16 @@ __Lecture Content__
 - Convolutional Neural Net for NLP
 - Max-margin Training
 - Scaling Softmax (Adaptive input & output)
+
 __Assignment `1` in__
 
 __Invited talk on cross-lingual word vectors__
 - [Tasnim Modiuddin](https://taasnim.github.io/)
 - [Talk Slides](https://www.dropbox.com/s/al987q6ltv3zpfv/word-tr-Tasnim.pdf?dl=0)
+
 __Practical exercise with Pytorch__
 - [CNN for word encoding](https://github.com/FengZiYjun/CharLM)
+
 __Suggested Readings__
 - [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
@@ -207,6 +215,7 @@ __Lecture Content__
 - Multi-layer RNNs
 - Sequence labeling with RNNs
 - Sequence classification with RNNs
+
 __Assignment `2` out__
 
 __Practical exercise with Pytorch__
@@ -215,6 +224,7 @@ __Practical exercise with Pytorch__
 - Named Entity Recognition (NER)
 - Sentiment classification
 - Text generation
+
 __Suggested Readings__
 - [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 - [Karpathy's nice blog on Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
