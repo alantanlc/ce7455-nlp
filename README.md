@@ -10,6 +10,7 @@ There are a number of core NLP tasks and machine learning models behind NLP appl
 - Machine Learning - A Probabilistic Perspective by Kevin Murphy [online](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 - Natural Language Processing by Jacob Eisenstien [free online](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - Speech and Language Processing by Dan Jurafsky and James H. Martin [(3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+- Natural Language Processing with PyTorch [purchase here](https://www.oreilly.com/library/view/natural-language-processing/9781491978221/)
 
 ## Intended Learning Outcome
 In this course, students will learn state-of-the-art deep learning methods for NLP. Through lectures and practical assignments, students will learn the necessary tricks for making their models work on practical problems. They will learn to implement, and possibly to invent their own deep learning models using available deep learning libraries like [Pytorch](https://pytorch.org/).
